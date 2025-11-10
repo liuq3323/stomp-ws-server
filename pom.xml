@@ -14,7 +14,7 @@
     <name>Ws Notify</name>
     <description>Ws Notify</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
         <spring-ai.version>0.8.1</spring-ai.version>
         <redisson.version>3.37.0</redisson.version>
         <lombok.version>1.18.38</lombok.version>
