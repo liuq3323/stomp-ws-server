@@ -31,4 +31,7 @@ spring:
       ssl:
         enabled: false
 
-
+rocketmq:
+  name-server: 127.0.0.1:9876
+  consumer:
+    group: ws-consumer-group
